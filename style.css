@@ -13,7 +13,6 @@
 }
 .card-body {
     text-align: center;
-    
 }
 .card {
     padding: 30px 30px;
@@ -29,4 +28,10 @@
     padding: 9px 25px;
     cursor: pointer;
     margin-top: 10px;
+}
+a {
+    color: orange;
+    text-decoration: none;
+    font-weight: 600;
+    float: right;
 }
